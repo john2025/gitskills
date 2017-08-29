@@ -1,2 +1,2 @@
 # gitskills
-add merge
+Git is a free software ...
